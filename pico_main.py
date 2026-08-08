@@ -24,7 +24,7 @@ SSID = "Mahesh's A55"
 PASSWORD = "binka1865"
 
 # The API Endpoint on your laptop
-SERVER_URL = "http://10.178.78.85:3001/api/state"
+SERVER_URL = "http://10.42.220.140:3001/api/state"
 
 # ==========================================
 # MOTOR HELPER FUNCTIONS

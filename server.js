@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3001;
-const HOST = '10.178.78.85'; // Phone Hotspot IP 
+const HOST = '0.0.0.0'; // Phone Hotspot IP 
 
 // Simple state object to hold commands
 let currentCommand = {
